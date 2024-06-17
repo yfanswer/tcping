@@ -1,6 +1,6 @@
 module github.com/yfanswer/tcping
 
-go 1.18
+go 1.21.1
 
 require (
 	github.com/smartystreets/goconvey v1.8.1
