@@ -25,7 +25,7 @@ Ping statistics tcp://google.com:443
 	4 probes sent.
 	4 successful, 0 failed.
 Approximate trip times:
-	Minimum = 1.967587ms, Maximum = 15.425732ms, Average = 5.605425ms
+	Minimum = 1.967587ms, Maximum = 15.425732ms, Average = 5.605425ms.
 ```
 
 ### ping http
@@ -41,5 +41,5 @@ Ping statistics http://hui.lu:80
 	4 probes sent.
 	4 successful, 0 failed.
 Approximate trip times:
-	Minimum = 56.750403ms, Maximum = 232.880173ms, Average = 101.903482ms
+	Minimum = 56.750403ms, Maximum = 232.880173ms, Average = 101.903482ms.
 ```
